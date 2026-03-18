@@ -26,7 +26,7 @@ It demonstrates the full machine learning lifecycle:
 
 ## 📊 Dataset
 
-* Source: Kaggle ([Bluebook for Bulldozers dataset](https://www.kaggle.com/competitions/bluebook-for-bulldozers/data))
+* Source: Kaggle [Bluebook for Bulldozers dataset](https://www.kaggle.com/competitions/bluebook-for-bulldozers/data)
 * Contains:
 
   * Equipment type
